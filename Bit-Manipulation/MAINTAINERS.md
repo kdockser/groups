@@ -1,4 +1,4 @@
 # RISC-V Working Groups: Bit-Manipulation Maintainers
 
-Chair: 
-Vice-Chair: 
+Chair: Ken Dockser
+Vice-Chair: Claire Wolf
